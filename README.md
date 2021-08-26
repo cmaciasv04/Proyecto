@@ -4,7 +4,7 @@ Este proyecto crea una herramienta visual para la calidad de la fruta
 Los integrantes de este proyecto: Carlos Macias - Fabian Molina - Carlos Orrala
 
 <div>Teachable Machine Image Model</div>
-<button type="button" onclick="init()">Start</button>
+<button type="button" onclick="init()">Escanea</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
