@@ -1,4 +1,4 @@
-## Bienvenido  - 
+## Bienvenido  
 ## Frutas y su calidad para su consumo
 Este proyecto crea una herramienta visual para la calidad de la fruta
 Los integrantes de este proyecto: Carlos Macias - Fabian Molina - Carlos Orrala
